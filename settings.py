@@ -1,0 +1,2 @@
+def theme():
+    return "light"
