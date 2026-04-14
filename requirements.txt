@@ -1,3 +1,7 @@
-gradio==6.11.0
+https://huggingface.co/buckets/gradio/pypi-previews/resolve/fe34e72dba7aa804cfb14c73a7dcdeee906d051c/gradio-6.12.0-py3-none-any.whl
 pywebview==6.1
 plotly
+librosa
+numpy
+pandas
+matplotlib
